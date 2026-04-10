@@ -1,4 +1,10 @@
-function TestimonialCard({ name, username, testimonial, avatarUrl, avatarAlt }) {
+function TestimonialCard({
+  name,
+  username,
+  testimonial,
+  avatarUrl,
+  avatarAlt,
+}) {
   return (
     <article
       className="bg-white rounded-2xl shadow-md p-6 max-w-md w-full"

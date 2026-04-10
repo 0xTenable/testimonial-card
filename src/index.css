@@ -1,6 +1,4 @@
 @import "tailwindcss";
-@source "../src/App.jsx";
-@source "../src/components/TestimonialCard.jsx";
 
 @theme {
   --font-sans: "Noto Sans", system-ui, sans-serif;
